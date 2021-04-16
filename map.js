@@ -1,3 +1,5 @@
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map
+
 const NEEDLE_SIZES = new Map();
 // US Metric
 // 0  2mm
